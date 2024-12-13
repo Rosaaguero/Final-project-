@@ -4,7 +4,7 @@ body{
 }
 .cont-form{
   background-color:rgba(100, 148, 237, 0.445);
-  height:350px;
+  height:400px;
   width:350px;
   margin:auto;
 }
@@ -27,12 +27,12 @@ label{
 }
 input[type=button]{
   display:flex;
-  margin-top:20px;
-  width:80px;
+  margin-top: 20px;
+  width:250px;
   height:40px;
   font-size:25px;
   padding:5px;
-  background-color:rgba(143, 188, 143, 0.573);
+  background-color:rgba(46, 118, 190, 0.573);
   border:none;
   border-radius:3px;
   
