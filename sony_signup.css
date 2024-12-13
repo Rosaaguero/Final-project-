@@ -1,0 +1,62 @@
+body{
+  background-color:rgba(245, 245, 220, 0.652);
+  font-family:'Roboto', sans-serif;
+}
+.sign-up{
+  background-color:azure;
+  height:600px;
+  width:350px;
+  margin:auto;
+}
+h1{
+color:brown;
+padding:10px;
+text-align:center;
+}
+form{
+  
+  width:300px;
+  margin-left: 10px;
+}
+form label{
+ display:flex;
+ margin-top:20px;
+}
+form input{
+ width:100%;
+ border-radius:3px;
+ border:1px solid black;
+ padding:7px;
+}
+input[type=button]{
+ margin-top:20px;
+ background-color:rgba(127, 255, 212, 0.637);
+ padding:15px;
+ font-size:15px;
+ border:none;
+}
+input[type=button]:hover{
+  background-color:rgba(128, 128, 128, 0.279);
+}
+.para1{
+  margin-left:10px;
+  margin-top:20px;
+}
+.terms{
+  color:blue;
+}
+.terms:hover{
+  color:red;
+}
+.para2{
+  text-align:center;
+  }
+  .click{
+   color:blue;
+  }
+  .click:hover{
+    color:red;
+  }
+
+
+ 

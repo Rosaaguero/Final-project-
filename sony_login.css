@@ -1,0 +1,60 @@
+body{
+  background-color:rgba(11, 227, 227, 0.126);
+  font-family:'Roboto', sans-serif;
+}
+h1{
+  color:chocolate;
+  text-align:center;
+  padding-top:20px;
+}
+.log{
+  background-color: white;
+  height: 300px;
+  width:300px;
+  margin:auto;
+  
+  
+}
+form{
+ padding:10px;
+ margin-left:50px;
+ 
+ 
+
+}
+label{
+  display:flex;
+  margin-top:10px;
+  height:20px;
+  width:100%;
+  
+ 
+  }
+  form input{
+    border:1px solid black;
+    border-radius:2px;
+    padding:7px;
+  }
+input[type=button]{
+ display:flex;
+ margin-top:15px;
+ background-color:rgba(127, 255, 212, 0.637);
+ width:70px;
+ height:30px;
+ padding:2px;
+ font-size:15px;
+ border:none;
+}
+input[type=button]:hover{
+  background-color:rgba(128, 128, 128, 0.279);
+}
+.sign-para{
+ text-align:center;
+}
+.si-link{
+  color:blue;
+}
+.si-link:hover{
+  color:red;
+
+}
