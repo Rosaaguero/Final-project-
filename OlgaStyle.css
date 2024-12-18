@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    background-color: rgb(126, 166, 212);
+    text-align: center;
+    border-color: rgb(1, 1, 8);
+    border-style: dashed;
+    padding: 10px;
+}
+p{
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 100px;
+    margin-top: 80px;
+
+}
+
+img{ 
+    counter-reset: 10px;
+    background-color: black;
+    width: 350px;
+    height: auto;
+    border: solid rgb(5, 1, 10);
+    border-bottom-right-radius: 0%;
+    justify-content: center;
+}
+.MexicanFood{
+    width: auto;
+    height: auto;
+    
+
+}
+.IndianFood{
+    width: auto;
+    height: auto;
+    
+
+}
+    
+
+
+.ItalianFood{
+    width: auto;
+    height: auto;
+    
+    
+    
+}
+.AmericanFood{
+    width: auto;
+    height: auto;
+
+    
+    
+}
+.FrenchFood{
+    width: auto;
+    height: auto;
+}
+.content{
+    
+
+
+}
